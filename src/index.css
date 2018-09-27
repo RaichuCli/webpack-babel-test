@@ -1,0 +1,12 @@
+.fonter {
+  width: 100px;
+}
+
+.bc {
+  background-image: url(./test.jpg)
+}
+
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url(./test.woff) format("woff");
+}
