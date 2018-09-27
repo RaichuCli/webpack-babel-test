@@ -3,10 +3,10 @@
 }
 
 .bc {
-  background-image: url(/staticimg/test.jpg)
+  background-image: url(/img/test.jpg)
 }
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url(/staticfont/test.woff) format("woff");
+  src: url(/font/test.woff) format("woff");
 }
